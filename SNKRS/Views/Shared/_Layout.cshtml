@@ -22,9 +22,12 @@
 <style>
     /* Đặt màu nền cho navbar */
     .navbar {
+        position: sticky;
+        top: 0; /* Cố định ở phía trên cùng */
+        z-index: 1000; /* Đảm bảo navbar luôn hiển thị trên các phần khác */
         background-color: #ffffff; /* Màu nền trắng */
-        padding: 10px 20px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Tạo hiệu ứng bóng nhẹ cho navbar */
+        border-bottom: 1px solid #e7e7e7; /* Đường kẻ dưới navbar */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng nhẹ */
     }
 
     /* Đảm bảo logo nằm ở bên trái ngoài cùng */
@@ -136,7 +139,7 @@
 </style>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
         <div class="container">
             <!-- Logo nằm sát cạnh trái màn hình -->
             <a class="navbar-brand custom-logo" href="@Url.Action("Index", "Home")">
@@ -196,7 +199,7 @@
         @RenderBody()
     </main>
 
- 
+
     <footer class="footer-dark">
         <div class="container">
             <div class="row">

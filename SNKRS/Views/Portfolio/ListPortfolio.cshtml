@@ -160,14 +160,14 @@
                 return fullCategoryName.trim();
             }
 
-            var categories = document.querySelectorAll('.nav-item');
+            // Thêm sự kiện click vào các item
+            var categories = document.querySelectorAll('.menu-item');
 
             categories.forEach(function (category) {
                 category.addEventListener('click', function (event) {
                     var categoryName = extractCategoryName(event.target.textContent.trim());
 
-                    if (categoryName === "More") return; // Skip if "More" dropdown is clicked
-
+                    // Lọc theo categoryName
                     var portfolioItems = document.querySelectorAll('.card-columns .card');
 
                     portfolioItems.forEach(function (item) {
@@ -175,19 +175,16 @@
                             return extractCategoryName(li.textContent.trim());
                         });
 
-                        if (categoriesList.includes(categoryName)) {
-                            item.style.display = 'block'; // Show portfolio if it has the clicked category
+                        // Nếu categoryList chứa categoryName, hiển thị item, ngược lại ẩn item
+                        if (categoriesList.includes(categoryName) || categoryName === "Tất cả") {
+                            item.style.display = 'block'; // Hiển thị portfolio
                         } else {
-                            item.style.display = 'none'; // Hide portfolio if it doesn't have the clicked category
+                            item.style.display = 'none'; // Ẩn portfolio
                         }
                     });
                 });
             });
         });
-
-        function reloadPage() {
-            location.reload(); // Reload lại trang khi nhấp vào "Tất cả"
-        }
 
     </script>
 

@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|c:\\users\\ngomu\\onedrive\\desktop\\dacn\\dacn\\snkrs\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\snkrs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\snkrs\\views\\portfolio\\listportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\listportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\snkrs\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,38 +48,64 @@
               "RelativeDocumentMoniker": "SNKRS\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SNKRS\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAOEAAAAAAAAAAAAAAP0AAAAAAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAPgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T05:21:53.495Z",
+              "WhenOpened": "2024-12-14T09:13:09.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T05:20:06.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SNKRS\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SNKRS\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAI0AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T05:16:57.077Z"
+              "WhenOpened": "2024-12-14T05:16:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T09:19:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListPortfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T08:20:17.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T05:20:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Ngomu\\OneDrive\\Desktop\\DACN\\DACN\\SNKRS\\Startup.cs",
               "RelativeDocumentMoniker": "SNKRS\\Startup.cs",
